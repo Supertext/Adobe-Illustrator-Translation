@@ -1,0 +1,21 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/*
+!.vscode/extensions.json
+.idea/
+
+# Test documents and generated files
+test/
+*.xlf
+*.xliff
+*_text.csv
+*_text.json
+*_text.txt
+
+# Illustrator backups and temporary files
+*.ai.bak
+~*.ai
